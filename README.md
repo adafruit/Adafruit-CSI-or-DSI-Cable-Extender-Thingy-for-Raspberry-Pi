@@ -1,4 +1,4 @@
-# -Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi
+# Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi
 Thingy! Extender!
 
 Format is EagleCAD schematic and board layout
