@@ -3,7 +3,7 @@
 <a href="http://www.adafruit.com/products/3671"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-Thingy! Extender!. Format is EagleCAD schematic and board layout
+Thingy! Extender! Format is EagleCAD schematic and board layout
 
 For more details, check out the product page at
 * http://www.adafruit.com/product/3671
